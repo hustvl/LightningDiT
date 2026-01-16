@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
     Run:
     ```
-    bash bash run_fast_inference.sh ${config_path}
+    bash run_fast_inference.sh ${config_path}
     ```
     Images will be saved into ``demo_images/demo_samples.png``, e.g. the following one:
     <div align="center">
